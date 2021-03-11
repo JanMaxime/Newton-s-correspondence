@@ -1,0 +1,5 @@
+Attention pour l'instant ce fichier ne permet pas d'être utilisé avec pip
+
+- pandas
+- BeautifulSoup
+- lxml
